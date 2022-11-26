@@ -18,9 +18,7 @@ while a == True:
     lado1 = int(input("INFORME O LADO 1: "))          
     lado2 = int(input("INFORME O LADO 2: "))    
     lado3 = int(input("INFORME O LADO 3: "))        
-    
-    #soma_lados = lado1 + lado2 + lado3
-    
+      
     if (lado1 > 0) and (lado2 > 0) and (lado3 > 0):
 
         if (lado1 == lado2 == lado3):
