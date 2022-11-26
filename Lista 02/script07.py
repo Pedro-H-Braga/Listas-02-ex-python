@@ -1,5 +1,13 @@
-print("A MEDIDA EM PESO SERA EM *KG* E A ALTURA EM *METROS*, ex:\npeso: 68.60 & altura: 1.65")
+'''
+A Organização Mundial de Saúde (OMS) utiliza o Índice de Massa Corporal (IMC) como critério para dar
+uma indicação sobre a condição de peso de uma pessoa adulta.
+A fórmula para o cálculo do IMC é:
+𝐼𝑀𝐶 =𝑝𝑒𝑠𝑜/𝑎𝑙𝑡𝑢𝑟𝑎2
+Elabore um programa que leia o peso e a altura de um adulto e mostre sua condição de acordo com a
+tabela abaixo:
 
+'''
+print("A MEDIDA EM PESO SERA EM *KG* E A ALTURA EM *METROS*, ex:\npeso: 68.60 & altura: 1.65")
 
 a = True
 
